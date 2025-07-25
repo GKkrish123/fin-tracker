@@ -193,6 +193,7 @@ export function DataTable({
     <div
       className="relative flex flex-col gap-4 overflow-auto px-4 lg:px-6"
     >
+      <h3 className="text-lg font-semibold">Payment History</h3>
       <div className="overflow-hidden rounded-lg border">
         <Table>
           <TableHeader className="bg-muted sticky top-0 z-10">
