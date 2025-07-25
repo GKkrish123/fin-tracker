@@ -1,3 +1,6 @@
+## Fin Tracker
+A modern, transparent loan dashboard UI prototype built with Next.js, Shadcn, Tailwind CSS, and Lucide icons. Visualizes progress, savings and loan details to simulate a clean borrower experience.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
